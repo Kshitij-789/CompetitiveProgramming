@@ -1,3 +1,7 @@
+/*
+my solution was same as https://github.com/dolphingarlic/CompetitiveProgramming/blob/master/Baltic/Baltic%2006-coins.cpp
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long llo;
