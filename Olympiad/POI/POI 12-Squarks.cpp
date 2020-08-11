@@ -1,3 +1,7 @@
+/*
+https://github.com/thecodingwizard/competitive-programming/blob/master/POI/POI12-Squarks.cpp
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long llo;
